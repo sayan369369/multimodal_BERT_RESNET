@@ -1,0 +1,5 @@
+#multimodal ML
+
+Multimodal Machine Learning refers to the use of 
+multiple data types such as text, images, audio and video or modalities 
+to build models that can process and integrate them into a unified understanding. 
